@@ -93,9 +93,10 @@ All data extracted directly from Cadence Incisive gate-level simulations, Genus 
 
 ### 4.2 Physical Synthesis & Layout Sign-Off (Cadence Flow)
 
+- **Technology Node**: Cadence 90nm Generic Process Design Kit (gpdk90)
 - **Logic Synthesis**: Cadence Genus 21.1
 - **Physical Layout & PnR**: Cadence Innovus Implementation System
-- **Total Cell Area**: 879.518 µm² (Genus Standard Cells)
+- **Total Cell Area**: 879.518 µm² (gpdk90 Standard Cells)
 - **Sequential Instances**: 23 flip-flops
 - **Vector Power (Voltus)**: 0.5939 mW (comparable to baseline 0.5853 mW, with 87.5% reduced switching activity in loop filter during tracking)
 
